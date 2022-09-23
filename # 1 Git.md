@@ -1,7 +1,7 @@
 # 1 Git
 ### 写在前面：刚开始的时候，其实不是很明白git，github,到底应该怎么操作，随着招新马拉松的进行，不断探索，尝试了不同方式上传至github,大多数ide都提供了直接的git选项方便上传，还有一些用git bash也可以解决
 ## 我的主页链接：https://github.com/fantasyblue5
-## 第1题markdown文档已上传至github,链接为：
+## 第1题markdown文档已上传至github,链接为：https://github.com/fantasyblue5/1Git
 ![](https://cdn.jsdelivr.net/gh/fantasyblue5/Jotang-img@main/img/gitpage.png)
 ## 任务1-用本地化Git来管理本次招新题目回答项目文件
 ###
